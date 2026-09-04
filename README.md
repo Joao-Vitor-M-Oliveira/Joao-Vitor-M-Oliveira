@@ -265,7 +265,7 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Joao-Vitor-M-de-Oliveira/Joao-Vitor-M-de-Oliveira/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Joao-Vitor-M-Oliveira/Joao-Vitor-M-Oliveira/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
