@@ -245,7 +245,18 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-M-Oliveira&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=JVO%20SYSTEM%20ACTIVITY"/>
+╔══════════════════════════════════════════════════════════════╗
+║                    JVO ACTIVITY MATRIX                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  SOFTWARE        ████████████████████░░  ACTIVE             ║
+║  IoT             █████████████████░░░░░  ACTIVE             ║
+║  CYBERSECURITY   ███████████████░░░░░░░  LEARNING           ║
+║  NETWORKING      ████████████████░░░░░░  ACTIVE             ║
+║  EMBEDDED        █████████████████░░░░░  ACTIVE             ║
+║                                                              ║
+║             BUILD // LEARN // CREATE                        ║
+╚══════════════════════════════════════════════════════════════╝
 
 </div>
 
@@ -255,7 +266,18 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joao-Vitor-M-Oliveira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+┌─────────────────────────────────────────────────────────────┐
+│                    JVO // ACHIEVEMENTS                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   🏆 TECHNICAL DEVELOPMENT                                  │
+│   ⚡ IoT & EMBEDDED SYSTEMS                                 │
+│   🔐 CYBERSECURITY                                          │
+│   💻 SOFTWARE ENGINEERING                                   │
+│   🚨 SAFELINK EMERGENCIAL                                   │
+│   🌐 NETWORKING                                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 </div>
 
