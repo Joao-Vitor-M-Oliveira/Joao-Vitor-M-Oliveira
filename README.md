@@ -18,13 +18,13 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/Joao-Vitor-M-de-Oliveira">
+<a href="https://github.com/Joao-Vitor-M-Oliveira">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=System+Developer+%7C+IoT+Enthusiast;Building+technology+that+solves+real+problems;Software+%2B+Hardware+%2B+Networking;Exploring+Cybersecurity+%26+Embedded+Systems;Welcome+to+my+digital+workspace..." />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Joao-Vitor-M-de-Oliveira&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Joao-Vitor-M-Oliveira&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -57,7 +57,7 @@ Atualmente estou expandindo meus conhecimentos em **Java, C#, segurança da info
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-M-de-Oliveira&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-M-Oliveira&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br>
 
@@ -229,13 +229,13 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-M-de-Oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-M-Oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-M-de-Oliveira&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-M-Oliveira&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Joao-Vitor-M-de-Oliveira&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Joao-Vitor-M-Oliveira&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=888888" width="70%"/>
 
 </div>
 
@@ -245,7 +245,7 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-M-de-Oliveira&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=JVO%20SYSTEM%20ACTIVITY"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-M-Oliveira&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=JVO%20SYSTEM%20ACTIVITY"/>
 
 </div>
 
@@ -255,7 +255,7 @@ BUILD. LEARN. CREATE. REPEAT.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joao-Vitor-M-de-Oliveira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Joao-Vitor-M-Oliveira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -279,7 +279,7 @@ BUILD. LEARN. CREATE. REPEAT.
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
-<a href="https://github.com/Joao-Vitor-M-de-Oliveira">
+<a href="https://github.com/Joao-Vitor-M-Oliveira">
 <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
