@@ -302,7 +302,7 @@ BUILD. LEARN. CREATE. REPEAT.
 <div align="center">
 
 <a href="https://joao-vitor-m-oliveira.github.io/Joao-Vitor-Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/%20PORTFÓLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/Joao-vmdo">
